@@ -1,0 +1,34 @@
+.sect9 {
+  display: flex;
+  align-items: center;
+  gap: 7.29vw;
+  padding: 10.42vw 11.11vw 10.42vw 11.11vw;
+}
+.sect9 img {
+  width: 31.94vw;
+}
+.sect9 .text {
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  width: 38.89vw;
+}
+.sect9 h2 {
+  font-size: 5.14vw;
+  line-height: 1.2;
+}
+.sect9 h3 {
+  font-size: 2.22vw;
+  font-weight: 600;
+}
+.sect9 .quote {
+  font-style: italic;
+  font-size: 1.67vw;
+  line-height: 2.5;
+  color: #5c4529;
+}
+.sect9 .quote span {
+  color: #ffd0a0;
+  font-size: 4.17vw;
+  line-height: 0;
+}

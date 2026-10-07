@@ -1,0 +1,34 @@
+.sect2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 67.71vw;
+  padding: 0 4.86vw 0 1.39vw;
+  background: #eef9f2;
+}
+.sect2 img {
+  width: 51.39vw;
+}
+.sect2 .text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4.86vw;
+  width: 33.33vw;
+}
+.sect2 h2 {
+  font-size: 5.56vw;
+  line-height: 1.05;
+}
+.sect2 p {
+  font-size: 1.25vw;
+  line-height: 2.2;
+  color: #5c4529;
+}
+
+.sect2 .btn {
+  height: 5.21vw;
+  padding: 0 3.89vw;
+  border-radius: 2.78vw;
+  font-size: 1.39vw;
+}

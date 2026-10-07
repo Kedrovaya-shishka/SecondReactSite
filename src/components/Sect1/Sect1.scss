@@ -1,0 +1,49 @@
+.sect1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 62.85vw;
+  padding: 2.78vw 6.94vw 5.56vw 11.11vw;
+}
+.sect1 .text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2.36vw;
+  width: 35.76vw;
+}
+.sect1 .tag {
+  padding: 0.69vw 2.08vw;
+  border-radius: 2.08vw;
+  background: #ffe5c7;
+  color: #ff8a00;
+  font-size: 1.25vw;
+}
+.sect1 h2 {
+  font-family: Raleway, sans-serif;
+  font-size: 5.56vw;
+  line-height: 1.1;
+}
+.sect1 p {
+  font-size: 1.39vw;
+  line-height: 2;
+  color: #5c4529;
+}
+.sect1 .buttons {
+  display: flex;
+  gap: 1.81vw;
+  padding-top: 2.08vw;
+}
+.sect1 .green {
+  background: #3fa72f;
+}
+.sect1 img {
+  width: 45.14vw;
+}
+
+.sect1 .btn {
+  height: 5.21vw;
+  padding: 0 3.89vw;
+  border-radius: 2.78vw;
+  font-size: 1.39vw;
+}

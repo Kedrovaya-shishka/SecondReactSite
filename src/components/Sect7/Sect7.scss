@@ -1,0 +1,42 @@
+.sect7 {
+  display: flex;
+  justify-content: center;
+  padding: 80px 160px;
+}
+.sect7 .banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 22px;
+  width: 1120px;
+  height: 570px;
+  color: white;
+  background-image: url('../../assets/open-bg.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 80px;
+}
+.sect7 h2 {
+  font-size: 56px;
+}
+.sect7 h3 {
+  font-size: 28px;
+  font-weight: 500;
+}
+.sect7 .hours {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+.sect7 .buttons {
+  display: flex;
+  gap: 20px;
+  padding-top: 10px;
+}
+.sect7 .white {
+  background: white;
+  color: #311f09;
+}

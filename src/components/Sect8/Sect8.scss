@@ -1,0 +1,44 @@
+.sect8 {
+  display: flex;
+  flex-direction: column;
+  padding: 3.47vw 0 10.42vw 0;
+  overflow: hidden;
+}
+.sect8 .row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.sect8 .row:first-child {
+  padding-right: 9.44vw;
+}
+.sect8 .row:last-child {
+  padding-left: 11.11vw;
+}
+.sect8 .circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55.56vw;
+  height: 55.56vw;
+  border-radius: 50%;
+  background: #f7f6f5;
+}
+.sect8 .circle img {
+  width: 38.19vw;
+}
+.sect8 .text {
+  display: flex;
+  flex-direction: column;
+  gap: 2.78vw;
+  width: 31.25vw;
+}
+.sect8 h2 {
+  font-size: 4.44vw;
+  line-height: 1.4;
+}
+.sect8 p {
+  font-size: 1.18vw;
+  line-height: 2;
+  color: #5c4529;
+}

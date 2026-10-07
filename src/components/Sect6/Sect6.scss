@@ -1,0 +1,44 @@
+.sect6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.6vw;
+  padding: 6.25vw 11.11vw 9.38vw 11.11vw;
+  background: #fafafa;
+}
+.sect6 h2 {
+  font-size: 4vw;
+}
+.sect6 .main {
+  width: 10.6vw;
+}
+.sect6 .who {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75vw;
+}
+.sect6 .who h3 {
+  font-size: 1.3vw;
+  font-weight: 600;
+}
+.sect6 .who p {
+  font-size: 1vw;
+}
+.sect6 .quote {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75vw;
+}
+.sect6 .quote p {
+  width: 27vw;
+  text-align: center;
+  font-size: 1.05vw;
+  line-height: 2.4;
+}
+.sect6 .quote img {
+  width: 1.8vw;
+}
+.sect6 .row {
+  width: 46.7vw;
+}
